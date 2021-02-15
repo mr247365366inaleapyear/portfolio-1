@@ -2,19 +2,19 @@ body{
     background-color: rgb(202, 206, 231);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 12px;
-    line-height: 34px;
+    line-height: 20px;
 }
 .container{
     width: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   clear: both;
   background-color: whitesmoke;
 }
 .p{
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 nav{
-    float: left;
+    float: right;
   margin-top: 25px;
 }
