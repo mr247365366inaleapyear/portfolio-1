@@ -9,6 +9,7 @@ body{
   max-width: 960px;
   margin: 0 auto;
   clear: both;
+  background-color: whitesmoke;
 }
 .p{
     margin-bottom: 20px;
